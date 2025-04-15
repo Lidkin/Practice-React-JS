@@ -1,3 +1,3 @@
-# Practice-React-JS
+# Practice-React-JS/TS
 
 main branch
